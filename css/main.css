@@ -422,6 +422,12 @@ body {
   }
 }
 
-
+.link-button{
+  position: relative;
+  width: calc(var(--index) * 30);
+  height: calc(var(--index) * 1.8);
+  margin: 0;
+  font-size: calc(var(--index) * 1.5);
+}
 
 
