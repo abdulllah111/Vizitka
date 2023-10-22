@@ -249,7 +249,6 @@ body {
 
 .Social {
   margin-bottom: 25px;
-  font-size: calc(var(--index) * 1.2);
   text-transform: uppercase;
   font-weight: 900;
   color: var(--text);
@@ -423,7 +422,6 @@ body {
 }
 
 .link-button{
-  position: relative;
   width: calc(var(--index) * 30);
   height: calc(var(--index) * 1.8);
   margin: 0;
